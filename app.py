@@ -37,6 +37,6 @@ class TwitterBot:
         # print(links)
 
 
-jm = TwitterBot('j_muriu', '33065246T')
+jm = TwitterBot('username', 'passwordl')
 jm.login()
 jm.like_tweet('webdevelopment')
